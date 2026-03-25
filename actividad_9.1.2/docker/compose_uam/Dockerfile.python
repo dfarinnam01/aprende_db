@@ -1,0 +1,29 @@
+FROM ubuntu:24.04
+
+RUN apt-get update && apt-get install -y \
+    openssh-server \
+    python3 \
+    python3 python3-pip \
+    python3-venv \
+    mysql-client \
+    nano \
+    sudo
+
+RUN mkdir -p /var/run/sshd
+
+# GENERAR HOST KEYS
+RUN ssh-keygen -A
+
+# Usuario cepy
+RUN useradd -m -d /home/cepy -s /bin/bash cepy && \
+    mkdir -p /home/cepy && \
+    chown -R cepy:cepy /home/cepy && \
+    echo "cepy:castelar" | chpasswd && \
+    usermod -aG sudo cepy
+# Permitir password SSH
+RUN sed -i 's/#PasswordAuthentication yes/PasswordAuthentication yes/' /etc/ssh/sshd_config
+
+EXPOSE 22
+
+# IMPORTANTE: SSH en primer plano
+CMD ["/usr/sbin/sshd", "-D"]

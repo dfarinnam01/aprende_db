@@ -1,0 +1,213 @@
+2026-03-24 19:16:25,303 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.address`.
+2026-03-24 19:16:25,306 [DEBUG   ] [faker.factory] Provider `faker.providers.address` has been localized to `es_ES`.
+2026-03-24 19:16:25,308 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.automotive`.
+2026-03-24 19:16:25,310 [DEBUG   ] [faker.factory] Provider `faker.providers.automotive` has been localized to `es_ES`.
+2026-03-24 19:16:25,312 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.bank`.
+2026-03-24 19:16:25,314 [DEBUG   ] [faker.factory] Provider `faker.providers.bank` has been localized to `es_ES`.
+2026-03-24 19:16:25,316 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.barcode`.
+2026-03-24 19:16:25,317 [DEBUG   ] [faker.factory] Provider `faker.providers.barcode` has been localized to `es_ES`.
+2026-03-24 19:16:25,318 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.color`.
+2026-03-24 19:16:25,319 [DEBUG   ] [faker.factory] Provider `faker.providers.color` has been localized to `es_ES`.
+2026-03-24 19:16:25,320 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.company`.
+2026-03-24 19:16:25,322 [DEBUG   ] [faker.factory] Provider `faker.providers.company` has been localized to `es_ES`.
+2026-03-24 19:16:25,323 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.credit_card`.
+2026-03-24 19:16:25,324 [DEBUG   ] [faker.factory] Specified locale `es_ES` is not available for provider `faker.providers.credit_card`. Locale reset to `en_US` for this provider.
+2026-03-24 19:16:25,325 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.currency`.
+2026-03-24 19:16:25,326 [DEBUG   ] [faker.factory] Provider `faker.providers.currency` has been localized to `es_ES`.
+2026-03-24 19:16:25,328 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.date_time`.
+2026-03-24 19:16:25,330 [DEBUG   ] [faker.factory] Provider `faker.providers.date_time` has been localized to `es_ES`.
+2026-03-24 19:16:25,331 [DEBUG   ] [faker.factory] Provider `faker.providers.doi` does not feature localization. Specified locale `es_ES` is not used for this provider.
+2026-03-24 19:16:25,331 [DEBUG   ] [faker.factory] Provider `faker.providers.emoji` does not feature localization. Specified locale `es_ES` is not used for this provider.
+2026-03-24 19:16:25,331 [DEBUG   ] [faker.factory] Provider `faker.providers.file` does not feature localization. Specified locale `es_ES` is not used for this provider.
+2026-03-24 19:16:25,331 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.geo`.
+2026-03-24 19:16:25,332 [DEBUG   ] [faker.factory] Specified locale `es_ES` is not available for provider `faker.providers.geo`. Locale reset to `en_US` for this provider.
+2026-03-24 19:16:25,333 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.internet`.
+2026-03-24 19:16:25,335 [DEBUG   ] [faker.factory] Provider `faker.providers.internet` has been localized to `es_ES`.
+2026-03-24 19:16:25,335 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.isbn`.
+2026-03-24 19:16:25,336 [DEBUG   ] [faker.factory] Provider `faker.providers.isbn` has been localized to `es_ES`.
+2026-03-24 19:16:25,337 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.job`.
+2026-03-24 19:16:25,338 [DEBUG   ] [faker.factory] Provider `faker.providers.job` has been localized to `es_ES`.
+2026-03-24 19:16:25,340 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.lorem`.
+2026-03-24 19:16:25,341 [DEBUG   ] [faker.factory] Provider `faker.providers.lorem` has been localized to `es_ES`.
+2026-03-24 19:16:25,342 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.misc`.
+2026-03-24 19:16:25,343 [DEBUG   ] [faker.factory] Specified locale `es_ES` is not available for provider `faker.providers.misc`. Locale reset to `en_US` for this provider.
+2026-03-24 19:16:25,343 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.passport`.
+2026-03-24 19:16:25,344 [DEBUG   ] [faker.factory] Specified locale `es_ES` is not available for provider `faker.providers.passport`. Locale reset to `en_US` for this provider.
+2026-03-24 19:16:25,345 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.person`.
+2026-03-24 19:16:25,348 [DEBUG   ] [faker.factory] Provider `faker.providers.person` has been localized to `es_ES`.
+2026-03-24 19:16:25,350 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.phone_number`.
+2026-03-24 19:16:25,353 [DEBUG   ] [faker.factory] Provider `faker.providers.phone_number` has been localized to `es_ES`.
+2026-03-24 19:16:25,354 [DEBUG   ] [faker.factory] Provider `faker.providers.profile` does not feature localization. Specified locale `es_ES` is not used for this provider.
+2026-03-24 19:16:25,354 [DEBUG   ] [faker.factory] Provider `faker.providers.python` does not feature localization. Specified locale `es_ES` is not used for this provider.
+2026-03-24 19:16:25,354 [DEBUG   ] [faker.factory] Provider `faker.providers.sbn` does not feature localization. Specified locale `es_ES` is not used for this provider.
+2026-03-24 19:16:25,354 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.ssn`.
+2026-03-24 19:16:25,357 [DEBUG   ] [faker.factory] Provider `faker.providers.ssn` has been localized to `es_ES`.
+2026-03-24 19:16:25,358 [DEBUG   ] [faker.factory] Provider `faker.providers.user_agent` does not feature localization. Specified locale `es_ES` is not used for this provider.
+2026-03-24 19:16:25,358 [INFO    ] [db.database] Cargando configuración desde config_db.json
+2026-03-24 19:16:25,358 [INFO    ] [db.database] Creando nueva conexión a MySQL (PyMySQL)
+2026-03-24 19:16:25,368 [CRITICAL] [db.database] Error al conectar a la base de datos: 'cryptography' package is required for sha256_password or caching_sha2_password auth methods
+2026-03-24 19:17:35,690 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.address`.
+2026-03-24 19:17:35,693 [DEBUG   ] [faker.factory] Provider `faker.providers.address` has been localized to `es_ES`.
+2026-03-24 19:17:35,694 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.automotive`.
+2026-03-24 19:17:35,696 [DEBUG   ] [faker.factory] Provider `faker.providers.automotive` has been localized to `es_ES`.
+2026-03-24 19:17:35,696 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.bank`.
+2026-03-24 19:17:35,697 [DEBUG   ] [faker.factory] Provider `faker.providers.bank` has been localized to `es_ES`.
+2026-03-24 19:17:35,698 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.barcode`.
+2026-03-24 19:17:35,698 [DEBUG   ] [faker.factory] Provider `faker.providers.barcode` has been localized to `es_ES`.
+2026-03-24 19:17:35,698 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.color`.
+2026-03-24 19:17:35,700 [DEBUG   ] [faker.factory] Provider `faker.providers.color` has been localized to `es_ES`.
+2026-03-24 19:17:35,700 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.company`.
+2026-03-24 19:17:35,702 [DEBUG   ] [faker.factory] Provider `faker.providers.company` has been localized to `es_ES`.
+2026-03-24 19:17:35,702 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.credit_card`.
+2026-03-24 19:17:35,703 [DEBUG   ] [faker.factory] Specified locale `es_ES` is not available for provider `faker.providers.credit_card`. Locale reset to `en_US` for this provider.
+2026-03-24 19:17:35,703 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.currency`.
+2026-03-24 19:17:35,704 [DEBUG   ] [faker.factory] Provider `faker.providers.currency` has been localized to `es_ES`.
+2026-03-24 19:17:35,705 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.date_time`.
+2026-03-24 19:17:35,707 [DEBUG   ] [faker.factory] Provider `faker.providers.date_time` has been localized to `es_ES`.
+2026-03-24 19:17:35,707 [DEBUG   ] [faker.factory] Provider `faker.providers.doi` does not feature localization. Specified locale `es_ES` is not used for this provider.
+2026-03-24 19:17:35,707 [DEBUG   ] [faker.factory] Provider `faker.providers.emoji` does not feature localization. Specified locale `es_ES` is not used for this provider.
+2026-03-24 19:17:35,707 [DEBUG   ] [faker.factory] Provider `faker.providers.file` does not feature localization. Specified locale `es_ES` is not used for this provider.
+2026-03-24 19:17:35,707 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.geo`.
+2026-03-24 19:17:35,708 [DEBUG   ] [faker.factory] Specified locale `es_ES` is not available for provider `faker.providers.geo`. Locale reset to `en_US` for this provider.
+2026-03-24 19:17:35,708 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.internet`.
+2026-03-24 19:17:35,710 [DEBUG   ] [faker.factory] Provider `faker.providers.internet` has been localized to `es_ES`.
+2026-03-24 19:17:35,710 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.isbn`.
+2026-03-24 19:17:35,710 [DEBUG   ] [faker.factory] Provider `faker.providers.isbn` has been localized to `es_ES`.
+2026-03-24 19:17:35,711 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.job`.
+2026-03-24 19:17:35,712 [DEBUG   ] [faker.factory] Provider `faker.providers.job` has been localized to `es_ES`.
+2026-03-24 19:17:35,713 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.lorem`.
+2026-03-24 19:17:35,714 [DEBUG   ] [faker.factory] Provider `faker.providers.lorem` has been localized to `es_ES`.
+2026-03-24 19:17:35,715 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.misc`.
+2026-03-24 19:17:35,715 [DEBUG   ] [faker.factory] Specified locale `es_ES` is not available for provider `faker.providers.misc`. Locale reset to `en_US` for this provider.
+2026-03-24 19:17:35,715 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.passport`.
+2026-03-24 19:17:35,716 [DEBUG   ] [faker.factory] Specified locale `es_ES` is not available for provider `faker.providers.passport`. Locale reset to `en_US` for this provider.
+2026-03-24 19:17:35,716 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.person`.
+2026-03-24 19:17:35,719 [DEBUG   ] [faker.factory] Provider `faker.providers.person` has been localized to `es_ES`.
+2026-03-24 19:17:35,720 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.phone_number`.
+2026-03-24 19:17:35,723 [DEBUG   ] [faker.factory] Provider `faker.providers.phone_number` has been localized to `es_ES`.
+2026-03-24 19:17:35,723 [DEBUG   ] [faker.factory] Provider `faker.providers.profile` does not feature localization. Specified locale `es_ES` is not used for this provider.
+2026-03-24 19:17:35,723 [DEBUG   ] [faker.factory] Provider `faker.providers.python` does not feature localization. Specified locale `es_ES` is not used for this provider.
+2026-03-24 19:17:35,723 [DEBUG   ] [faker.factory] Provider `faker.providers.sbn` does not feature localization. Specified locale `es_ES` is not used for this provider.
+2026-03-24 19:17:35,724 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.ssn`.
+2026-03-24 19:17:35,725 [DEBUG   ] [faker.factory] Provider `faker.providers.ssn` has been localized to `es_ES`.
+2026-03-24 19:17:35,726 [DEBUG   ] [faker.factory] Provider `faker.providers.user_agent` does not feature localization. Specified locale `es_ES` is not used for this provider.
+2026-03-24 19:17:35,726 [INFO    ] [db.database] Cargando configuración desde config_db.json
+2026-03-24 19:17:35,726 [INFO    ] [db.database] Creando nueva conexión a MySQL (PyMySQL)
+2026-03-24 18:30:38,007 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.address`.
+2026-03-24 18:30:38,256 [DEBUG   ] [faker.factory] Provider `faker.providers.address` has been localized to `es_ES`.
+2026-03-24 18:30:38,301 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.automotive`.
+2026-03-24 18:30:38,503 [DEBUG   ] [faker.factory] Provider `faker.providers.automotive` has been localized to `es_ES`.
+2026-03-24 18:30:38,524 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.bank`.
+2026-03-24 18:30:38,670 [DEBUG   ] [faker.factory] Provider `faker.providers.bank` has been localized to `es_ES`.
+2026-03-24 18:30:38,685 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.barcode`.
+2026-03-24 18:30:38,713 [DEBUG   ] [faker.factory] Provider `faker.providers.barcode` has been localized to `es_ES`.
+2026-03-24 18:30:38,728 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.color`.
+2026-03-24 18:30:39,082 [DEBUG   ] [faker.factory] Provider `faker.providers.color` has been localized to `es_ES`.
+2026-03-24 18:30:39,110 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.company`.
+2026-03-24 18:30:39,287 [DEBUG   ] [faker.factory] Provider `faker.providers.company` has been localized to `es_ES`.
+2026-03-24 18:30:39,304 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.credit_card`.
+2026-03-24 18:30:39,336 [DEBUG   ] [faker.factory] Specified locale `es_ES` is not available for provider `faker.providers.credit_card`. Locale reset to `en_US` for this provider.
+2026-03-24 18:30:39,351 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.currency`.
+2026-03-24 18:30:39,488 [DEBUG   ] [faker.factory] Provider `faker.providers.currency` has been localized to `es_ES`.
+2026-03-24 18:30:39,540 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.date_time`.
+2026-03-24 18:30:40,794 [DEBUG   ] [faker.factory] Provider `faker.providers.date_time` has been localized to `es_ES`.
+2026-03-24 18:30:40,927 [DEBUG   ] [faker.factory] Provider `faker.providers.doi` does not feature localization. Specified locale `es_ES` is not used for this provider.
+2026-03-24 18:30:40,928 [DEBUG   ] [faker.factory] Provider `faker.providers.emoji` does not feature localization. Specified locale `es_ES` is not used for this provider.
+2026-03-24 18:30:40,928 [DEBUG   ] [faker.factory] Provider `faker.providers.file` does not feature localization. Specified locale `es_ES` is not used for this provider.
+2026-03-24 18:30:40,928 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.geo`.
+2026-03-24 18:30:41,021 [DEBUG   ] [faker.factory] Specified locale `es_ES` is not available for provider `faker.providers.geo`. Locale reset to `en_US` for this provider.
+2026-03-24 18:30:41,044 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.internet`.
+2026-03-24 18:30:41,384 [DEBUG   ] [faker.factory] Provider `faker.providers.internet` has been localized to `es_ES`.
+2026-03-24 18:30:41,405 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.isbn`.
+2026-03-24 18:30:41,427 [DEBUG   ] [faker.factory] Provider `faker.providers.isbn` has been localized to `es_ES`.
+2026-03-24 18:30:41,445 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.job`.
+2026-03-24 18:30:41,692 [DEBUG   ] [faker.factory] Provider `faker.providers.job` has been localized to `es_ES`.
+2026-03-24 18:30:41,863 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.lorem`.
+2026-03-24 18:30:42,090 [DEBUG   ] [faker.factory] Provider `faker.providers.lorem` has been localized to `es_ES`.
+2026-03-24 18:30:42,116 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.misc`.
+2026-03-24 18:30:42,163 [DEBUG   ] [faker.factory] Specified locale `es_ES` is not available for provider `faker.providers.misc`. Locale reset to `en_US` for this provider.
+2026-03-24 18:30:42,193 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.passport`.
+2026-03-24 18:30:42,226 [DEBUG   ] [faker.factory] Specified locale `es_ES` is not available for provider `faker.providers.passport`. Locale reset to `en_US` for this provider.
+2026-03-24 18:30:42,247 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.person`.
+2026-03-24 18:30:42,934 [DEBUG   ] [faker.factory] Provider `faker.providers.person` has been localized to `es_ES`.
+2026-03-24 18:30:42,987 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.phone_number`.
+2026-03-24 18:30:43,308 [DEBUG   ] [faker.factory] Provider `faker.providers.phone_number` has been localized to `es_ES`.
+2026-03-24 18:30:43,324 [DEBUG   ] [faker.factory] Provider `faker.providers.profile` does not feature localization. Specified locale `es_ES` is not used for this provider.
+2026-03-24 18:30:43,324 [DEBUG   ] [faker.factory] Provider `faker.providers.python` does not feature localization. Specified locale `es_ES` is not used for this provider.
+2026-03-24 18:30:43,324 [DEBUG   ] [faker.factory] Provider `faker.providers.sbn` does not feature localization. Specified locale `es_ES` is not used for this provider.
+2026-03-24 18:30:43,324 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.ssn`.
+2026-03-24 18:30:43,862 [DEBUG   ] [faker.factory] Provider `faker.providers.ssn` has been localized to `es_ES`.
+2026-03-24 18:30:43,878 [DEBUG   ] [faker.factory] Provider `faker.providers.user_agent` does not feature localization. Specified locale `es_ES` is not used for this provider.
+2026-03-24 18:30:43,878 [INFO    ] [db.database] Cargando configuración desde config_db.json
+2026-03-24 18:30:43,880 [INFO    ] [db.database] Creando nueva conexión a MySQL (PyMySQL)
+2026-03-24 18:36:48,771 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.address`.
+2026-03-24 18:36:49,643 [DEBUG   ] [faker.factory] Provider `faker.providers.address` has been localized to `es_ES`.
+2026-03-24 18:36:49,845 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.automotive`.
+2026-03-24 18:36:50,258 [DEBUG   ] [faker.factory] Provider `faker.providers.automotive` has been localized to `es_ES`.
+2026-03-24 18:36:50,274 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.bank`.
+2026-03-24 18:36:50,417 [DEBUG   ] [faker.factory] Provider `faker.providers.bank` has been localized to `es_ES`.
+2026-03-24 18:36:50,433 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.barcode`.
+2026-03-24 18:36:50,471 [DEBUG   ] [faker.factory] Provider `faker.providers.barcode` has been localized to `es_ES`.
+2026-03-24 18:36:50,487 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.color`.
+2026-03-24 18:36:50,649 [DEBUG   ] [faker.factory] Provider `faker.providers.color` has been localized to `es_ES`.
+2026-03-24 18:36:50,676 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.company`.
+2026-03-24 18:36:51,025 [DEBUG   ] [faker.factory] Provider `faker.providers.company` has been localized to `es_ES`.
+2026-03-24 18:36:51,093 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.credit_card`.
+2026-03-24 18:36:51,222 [DEBUG   ] [faker.factory] Specified locale `es_ES` is not available for provider `faker.providers.credit_card`. Locale reset to `en_US` for this provider.
+2026-03-24 18:36:51,289 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.currency`.
+2026-03-24 18:36:52,129 [DEBUG   ] [faker.factory] Provider `faker.providers.currency` has been localized to `es_ES`.
+2026-03-24 18:36:52,222 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.date_time`.
+2026-03-24 18:36:53,267 [DEBUG   ] [faker.factory] Provider `faker.providers.date_time` has been localized to `es_ES`.
+2026-03-24 18:36:53,433 [DEBUG   ] [faker.factory] Provider `faker.providers.doi` does not feature localization. Specified locale `es_ES` is not used for this provider.
+2026-03-24 18:36:53,434 [DEBUG   ] [faker.factory] Provider `faker.providers.emoji` does not feature localization. Specified locale `es_ES` is not used for this provider.
+2026-03-24 18:36:53,435 [DEBUG   ] [faker.factory] Provider `faker.providers.file` does not feature localization. Specified locale `es_ES` is not used for this provider.
+2026-03-24 18:36:53,435 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.geo`.
+2026-03-24 18:36:53,703 [DEBUG   ] [faker.factory] Specified locale `es_ES` is not available for provider `faker.providers.geo`. Locale reset to `en_US` for this provider.
+2026-03-24 18:36:53,786 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.internet`.
+2026-03-24 18:36:54,724 [DEBUG   ] [faker.factory] Provider `faker.providers.internet` has been localized to `es_ES`.
+2026-03-24 18:36:54,813 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.isbn`.
+2026-03-24 18:36:54,904 [DEBUG   ] [faker.factory] Provider `faker.providers.isbn` has been localized to `es_ES`.
+2026-03-24 18:36:54,980 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.job`.
+2026-03-24 18:36:55,490 [DEBUG   ] [faker.factory] Provider `faker.providers.job` has been localized to `es_ES`.
+2026-03-24 18:36:55,535 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.lorem`.
+2026-03-24 18:36:55,708 [DEBUG   ] [faker.factory] Provider `faker.providers.lorem` has been localized to `es_ES`.
+2026-03-24 18:36:55,726 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.misc`.
+2026-03-24 18:36:55,761 [DEBUG   ] [faker.factory] Specified locale `es_ES` is not available for provider `faker.providers.misc`. Locale reset to `en_US` for this provider.
+2026-03-24 18:36:55,797 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.passport`.
+2026-03-24 18:36:55,858 [DEBUG   ] [faker.factory] Specified locale `es_ES` is not available for provider `faker.providers.passport`. Locale reset to `en_US` for this provider.
+2026-03-24 18:36:55,879 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.person`.
+2026-03-24 18:36:56,448 [DEBUG   ] [faker.factory] Provider `faker.providers.person` has been localized to `es_ES`.
+2026-03-24 18:36:56,477 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.phone_number`.
+2026-03-24 18:36:56,752 [DEBUG   ] [faker.factory] Provider `faker.providers.phone_number` has been localized to `es_ES`.
+2026-03-24 18:36:56,768 [DEBUG   ] [faker.factory] Provider `faker.providers.profile` does not feature localization. Specified locale `es_ES` is not used for this provider.
+2026-03-24 18:36:56,768 [DEBUG   ] [faker.factory] Provider `faker.providers.python` does not feature localization. Specified locale `es_ES` is not used for this provider.
+2026-03-24 18:36:56,768 [DEBUG   ] [faker.factory] Provider `faker.providers.sbn` does not feature localization. Specified locale `es_ES` is not used for this provider.
+2026-03-24 18:36:56,768 [DEBUG   ] [faker.factory] Looking for locale `es_ES` in provider `faker.providers.ssn`.
+2026-03-24 18:36:57,383 [DEBUG   ] [faker.factory] Provider `faker.providers.ssn` has been localized to `es_ES`.
+2026-03-24 18:36:57,398 [DEBUG   ] [faker.factory] Provider `faker.providers.user_agent` does not feature localization. Specified locale `es_ES` is not used for this provider.
+2026-03-24 18:36:57,398 [INFO    ] [db.database] Cargando configuración desde config_db.json
+2026-03-24 18:36:57,400 [INFO    ] [db.database] Creando nueva conexión a MySQL (PyMySQL)
+2026-03-24 18:36:57,753 [ERROR   ] [db.editoriales_dao] Error al insertar editorial: (1062, "Duplicate entry 'Desarrollo Ibérica S.Coop.' for key 'editoriales.nombre'")
+Traceback (most recent call last):
+  File "/home/cepy/02-libros_mysql_varias_tablas/db/editoriales_dao.py", line 22, in add
+    cursor.execute(sql, (
+  File "/home/cepy/02-libros_mysql_varias_tablas/.venv/lib/python3.12/site-packages/pymysql/cursors.py", line 153, in execute
+    result = self._query(query)
+             ^^^^^^^^^^^^^^^^^^
+  File "/home/cepy/02-libros_mysql_varias_tablas/.venv/lib/python3.12/site-packages/pymysql/cursors.py", line 322, in _query
+    conn.query(q)
+  File "/home/cepy/02-libros_mysql_varias_tablas/.venv/lib/python3.12/site-packages/pymysql/connections.py", line 575, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cepy/02-libros_mysql_varias_tablas/.venv/lib/python3.12/site-packages/pymysql/connections.py", line 826, in _read_query_result
+    result.read()
+  File "/home/cepy/02-libros_mysql_varias_tablas/.venv/lib/python3.12/site-packages/pymysql/connections.py", line 1203, in read
+    first_packet = self.connection._read_packet()
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cepy/02-libros_mysql_varias_tablas/.venv/lib/python3.12/site-packages/pymysql/connections.py", line 782, in _read_packet
+    packet.raise_for_error()
+  File "/home/cepy/02-libros_mysql_varias_tablas/.venv/lib/python3.12/site-packages/pymysql/protocol.py", line 219, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/home/cepy/02-libros_mysql_varias_tablas/.venv/lib/python3.12/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.IntegrityError: (1062, "Duplicate entry 'Desarrollo Ibérica S.Coop.' for key 'editoriales.nombre'")

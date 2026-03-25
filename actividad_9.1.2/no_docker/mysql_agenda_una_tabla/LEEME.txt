@@ -1,0 +1,6 @@
+Incluye:
+Singleton Database con reconexión automática
+Dao para tabla libros
+App de test
+Fakers
+Genera logs
