@@ -2,4 +2,4 @@
 .venv/
 venv/
 .mysql_data/
-actividad_9.1.2/docker/compose_uam/mysql_data
+actividad_9.1.2/docker/compose_uam/mysql_data/
