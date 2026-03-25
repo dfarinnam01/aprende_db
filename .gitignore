@@ -1,5 +1,5 @@
 .idea
 .venv/
 venv/
-.mysql_data
-docker/compose_uam/mysql_data
+.mysql_data/
+actividad_9.1.2/compose_uam/mysql_data
