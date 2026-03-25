@@ -1,2 +1,5 @@
 .idea
-.venv
+.venv/
+venv/
+.mysql_data
+docker/compose_uam/mysql_data
