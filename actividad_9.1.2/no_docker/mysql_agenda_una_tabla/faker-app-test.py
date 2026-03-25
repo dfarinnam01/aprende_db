@@ -25,7 +25,7 @@ TOTAL_CONTACTOS = 100
 
 progress = CepyProgressPrinter(msg="Generando contactos:", total=TOTAL_CONTACTOS)
 
-# Para evitar teléfonos duplicados (IMPORTANTÍSIMO por UNIQUE)
+# Para evitar teléfonos duplicados (IMPORTANTÍSIMaO por UNIQUE)
 telefonos_usados = set()
 
 def generar_telefono_unico():
